@@ -1,6 +1,6 @@
 Name:		texlive-longdivision
 Version:	59979
-Release:	1
+Release:	2
 Summary:	Typesets long division
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/longdivision
