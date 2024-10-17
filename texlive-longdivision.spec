@@ -3,7 +3,7 @@ Version:	68609
 Release:	1
 Summary:	Typesets long division
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/longdivision
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/longdivision
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/longdivision.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/longdivision.doc.r%{version}.tar.xz
